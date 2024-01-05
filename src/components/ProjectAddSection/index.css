@@ -1,0 +1,58 @@
+.add-project-bg-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.add-project-heading{
+font-family: Playfair Display;
+font-size: 48px;
+font-weight: 700;
+line-height: 72px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+.form-container{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+height:445px;
+top: 132px;
+left: 489px;
+gap: 20px;
+
+}
+.input-container{
+    display: flex;
+    flex-direction: column;
+}
+.add-button{
+    width: 81px;
+height: 43px;
+padding: 8px, 24px, 8px, 24px;
+border-radius: 8px;
+background-color: #FDC435;
+align-self: flex-end;
+}
+.project-title-heading{
+font-family: Playfair Display;
+font-size: 48px;
+font-weight: 700;
+line-height: 72px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+.unorder-list-container{
+    list-style-type: none;
+}
+.horizontal-line{
+    width: 100px;
+height: 4px;
+border: none;
+border-radius: 2px;
+background-color:#FDC435;
+
+}
